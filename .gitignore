@@ -1,0 +1,43 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+[Uu]ser[Ss]ettings/
+
+# IDE and OS files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.mdb.meta
+*.DS_Store
+Thumbs.db
+
+# Unity generated metadata caches
+sysinfo.txt
+
+# Package caches and external checkouts
+.external/
+
+# Build artifacts
+*.apk
+*.aab
+*.unitypackage
+*.keystore
+
