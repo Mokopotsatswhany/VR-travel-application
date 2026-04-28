@@ -40,4 +40,5 @@ sysinfo.txt
 *.aab
 *.unitypackage
 *.keystore
-
+webgl-build.log
+_webgl_publish_clone/
