@@ -42,7 +42,3 @@ sysinfo.txt
 *.keystore
 webgl-build.log
 _webgl_publish_clone/
-
-# Allow committed GitHub Pages WebGL output under docs/
-!docs/Build/
-!docs/Build/**
