@@ -40,6 +40,8 @@ If you want a playable browser link later:
 2. Put the WebGL output in a `docs/` folder.
 3. Enable GitHub Pages from the `main` branch `/docs` folder.
 
+For GitHub Pages, do not publish a WebGL build that only references `.br` files unless Unity Decompression Fallback is enabled. GitHub Pages does not add the Brotli `Content-Encoding` headers Unity expects.
+
 If you want an Android share link:
 
 1. Build an `APK`.
